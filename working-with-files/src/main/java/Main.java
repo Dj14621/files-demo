@@ -23,7 +23,7 @@ public class Main {
         readAFile();
 
         //Delete
-        System.out.println("\nCalling the delete file method.");
+        System.out.println("\nCalling the delete  file method.");
         deleteAFile();
     }
     //Create
